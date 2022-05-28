@@ -4,7 +4,7 @@
   "description": "Aplicacion up task creada para el curso mvc con nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon ./index.js"
   },
   "keywords": [],
   "author": "Vicente Monsalve",

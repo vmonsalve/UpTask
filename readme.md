@@ -8,4 +8,12 @@ para instalar las dependencias hacemos un
 npm i
 ``
 
-proximo paso crearemos el servidor express.
+Para ejecutar nuestra aplicacion express, luego de instalar
+nuestras dependendencias solo debemos ejecutar el siguiente
+comando en la terminal.
+
+``
+npm start
+``
+
+Para visualizarla solo debemos ir a http://localhost:1337/
